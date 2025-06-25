@@ -1,6 +1,8 @@
 # :sparkles: vrcss-fovfix for Linux :sparkles:
-# :sparkles: VRChatのスクショのFOVを調整するやつ for Linux :sparkles:
-# :sparkles: A stuff to adjust the FOV of VRChat screenshots for Linux :sparkles
+
+VRChatのスクショのFOVを調整するやつ for Linux
+
+A stuff to adjust the FOV of VRChat screenshots for Linux
 
 ## Usage
 
@@ -26,5 +28,5 @@ Run `./vrcss-fov.sh <image>` instead of above to use the default FOV `50`.
 
 ## :star: Original code and Respects :star:
 
-This repository code is a fork of [chigirits/README.md](https://gist.github.com/chigirits/55d6eed4396ed5da64878af2b43111ed).
+This repository code (for cmd.exe) is a fork of [chigirits/README.md](https://gist.github.com/chigirits/55d6eed4396ed5da64878af2b43111ed).
 Thanks chigirits.
