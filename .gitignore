@@ -1,0 +1,5 @@
+vrcss-fov-source/*
+!vrcss-fov-source/.gitkeep
+
+vrcss-fov-dist/*
+!vrcss-fov-dist/.gitkeep
