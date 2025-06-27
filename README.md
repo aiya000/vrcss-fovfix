@@ -26,6 +26,19 @@ Run `./vrcss-fov.sh <image>` instead of above to use the default FOV `50`.
 - zsh (PR to support bash is welcome)
 - ImageMagick
 
+## Why for Linux?
+
+This tool is designed for Linux (meaning environments that can run zsh scripts and have ImageMagick).
+
+That's because I thought it would be a disappointing to install ImageMagick on Windows just for this purpose.
+
+In a Linux environment, you will probably use ImageMagick more frequently than in Windows.
+I am one of them.
+
+For users who mainly use Windows, you can use the original version described below.
+
+The original version has some limitations, such as not being able to specify the FOV, but it is still perfectly usable.
+
 ## :star: Original code and Respects :star:
 
 This repository code is a fork of [chigirits/README.md](https://gist.github.com/chigirits/55d6eed4396ed5da64878af2b43111ed).
